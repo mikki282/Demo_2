@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\mikki.kumari\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mikki.kumari\\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\\Desktop\\VScode\\VScode.csproj",
+      "projectName": "VScode",
+      "projectPath": "C:\\Users\\mikki.kumari\\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\\Desktop\\VScode\\VScode.csproj",
+      "packagesPath": "C:\\Users\\mikki.kumari\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mikki.kumari\\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\\Desktop\\VScode\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mikki.kumari\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.415\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
